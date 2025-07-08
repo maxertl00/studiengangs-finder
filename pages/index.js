@@ -52,4 +52,3 @@ export default function Home() {
     </div>
   );
 }
-Create index.js with homepage UI and search functionality
