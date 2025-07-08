@@ -5,4 +5,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
-Add Next.js config file
+
